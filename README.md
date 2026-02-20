@@ -29,8 +29,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff)
 
-
-
 ---
 
 ## 🤝 Connect with me
