@@ -60,7 +60,7 @@ Check my pinned repositories below 👇
 
 ## 📫 Connect With Me
 
-- LinkedIn: (link əlavə et)
+- LinkedIn: ''
 
 ---
 
