@@ -35,19 +35,9 @@
 
 ## 🤝 Connect with me
 
-
-## 📊 GitHub Stats
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kqlzd&show_icons=true&theme=dark&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kqlzd&layout=compact&theme=dark&hide_border=true) |
-| --- | --- |
-
----
-
-## 🤝 Connect with me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kenan-guluzade-05011320b/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kenanguluzade88@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=notion&logoColor=white)](https://https://github.com/kqlzd)
+
 
 
 
