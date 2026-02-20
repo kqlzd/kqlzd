@@ -17,26 +17,37 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack & Tools
 
-### Frontend
-- React
-- TypeScript
-- JavaScript (ES6+)
-- Chakra UI
-- Tailwind CSS
+### 💻 Frontend
+<img align="left" alt="React" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="TypeScript" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="JavaScript" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Tailwind CSS" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwindcss/tailwindcss.png" />
+<img align="left" alt="Chakra UI" width="30" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored@2x.png" />
 
-### State Management
-- Zustand
-- Context API
+<br />
 
-### Tools
-- Git
-- GitHub
-- REST APIs
-- Firebase
+### 🧠 State & Architecture
+<img align="left" alt="Zustand" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/zustand/zustand.png" />
+<img align="left" alt="Context API" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react-context/react-context.png" />
 
----
+<br />
+
+### ⚙️ Tools & Platforms
+<img align="left" alt="Git" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png" />
+<img align="left" alt="Firebase" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+
+<br />
+
+## 🧩 Languages
+<img align="left" alt="TypeScript" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="JavaScript" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="HTML5" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
+<br clear="both" />
 
 ## 📌 Featured Projects
 
@@ -60,10 +71,6 @@ Check my pinned repositories below 👇
 
 ## 📫 Connect With Me
 
-- LinkedIn: ''
+- LinkedIn: https://www.linkedin.com/in/kenan-guluzade-05011320b/
 
----
 
-<p align="center">
-  🚀 Consistency beats intensity.
-</p>
