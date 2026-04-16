@@ -1,4 +1,4 @@
-## Frontend Developer | React · TypeScript · Javascript · Chakra UI
+## Frontend Developer | React · TypeScript · Javascript 
 
 ⚡ Frontend Developer specializing in building scalable, high-performance web applications. Experienced in developing end-to-end projects from initial architecture to final deployment. Passionate about clean code, modern UI patterns, and delivering user-focused products.
 
